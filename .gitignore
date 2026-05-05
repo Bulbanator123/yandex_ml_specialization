@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.csv
+*.task
+*.png
+.idea
+*.gz
+cifar/
+mnist/
